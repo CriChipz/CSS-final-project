@@ -1,0 +1,53 @@
+* {
+
+        font-family: "Fira Sans","Trebuchet MS",Ubuntu,Helvetica,Arial sans-serif;
+}
+
+body {
+          width: 85%;
+          margin: auto;
+          background-color: #45403f;
+
+        }
+
+header {
+           background-color: #F5D44E;
+}
+
+#title-header {
+           text-align: center;
+           background-color: #F5D44E;
+}
+
+p {
+            background-color: #4E6FF5;
+}
+
+#under-title {
+           text-align: center;
+}
+
+#nav-bar {
+    text-align: center;
+}
+
+.pokemon-card {
+          display: inline-block;
+          margin: 1px;
+          text-align: center;
+          width: 33%;
+        }
+
+.team-row {
+          text-align: center;
+        }
+
+.pokemon-img {
+          height: 400px;
+          width: 360px;
+}
+
+.pokemon-name {
+           font-family: "Fira Sans","Trebuchet MS",Ubuntu,Helvetica,Arial sans-serif;
+           font-weight: bold;
+}
